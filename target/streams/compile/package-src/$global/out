@@ -1,0 +1,7 @@
+[0m[[0minfo[0m] [0mPackaging /Users/viaduc446/Documents/BusinessIntelligence/MailStats/hcoproc/target/scala-2.10/hcoproc_2.10-1.0-sources.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	com/viadeo/hbase/hcoproc/Hcoproc.scala[0m
+[0m[[0mdebug[0m] [0m	  /Users/viaduc446/Documents/BusinessIntelligence/MailStats/hcoproc/src/main/scala/com/viadeo/hbase/hcoproc/Hcoproc.scala[0m
+[0m[[0mdebug[0m] [0m	com/viadeo/hbase/hcoproc/HcoprocExec.scala[0m
+[0m[[0mdebug[0m] [0m	  /Users/viaduc446/Documents/BusinessIntelligence/MailStats/hcoproc/src/main/scala/com/viadeo/hbase/hcoproc/HcoprocExec.scala[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m

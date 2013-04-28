@@ -1,0 +1,15 @@
+[0m[[0minfo[0m] [0mPackaging /Users/viaduc446/Documents/BusinessIntelligence/MailStats/hcoproc/target/scala-2.10/hcoproc_2.10-1.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	com[0m
+[0m[[0mdebug[0m] [0m	  /Users/viaduc446/Documents/BusinessIntelligence/MailStats/hcoproc/target/scala-2.10/classes/com[0m
+[0m[[0mdebug[0m] [0m	com/viadeo/hbase/hcoproc/Hcoproc.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/viaduc446/Documents/BusinessIntelligence/MailStats/hcoproc/target/scala-2.10/classes/com/viadeo/hbase/hcoproc/Hcoproc.class[0m
+[0m[[0mdebug[0m] [0m	com/viadeo[0m
+[0m[[0mdebug[0m] [0m	  /Users/viaduc446/Documents/BusinessIntelligence/MailStats/hcoproc/target/scala-2.10/classes/com/viadeo[0m
+[0m[[0mdebug[0m] [0m	com/viadeo/hbase/hcoproc/HcoprocExec.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/viaduc446/Documents/BusinessIntelligence/MailStats/hcoproc/target/scala-2.10/classes/com/viadeo/hbase/hcoproc/HcoprocExec.class[0m
+[0m[[0mdebug[0m] [0m	com/viadeo/hbase/hcoproc[0m
+[0m[[0mdebug[0m] [0m	  /Users/viaduc446/Documents/BusinessIntelligence/MailStats/hcoproc/target/scala-2.10/classes/com/viadeo/hbase/hcoproc[0m
+[0m[[0mdebug[0m] [0m	com/viadeo/hbase[0m
+[0m[[0mdebug[0m] [0m	  /Users/viaduc446/Documents/BusinessIntelligence/MailStats/hcoproc/target/scala-2.10/classes/com/viadeo/hbase[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m

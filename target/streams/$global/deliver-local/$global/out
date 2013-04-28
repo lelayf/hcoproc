@@ -1,0 +1,4 @@
+[0m[[0minfo[0m] [0m:: delivering :: com.viadeo#hcoproc_2.9.2;1.0-SNAPSHOT :: 1.0-SNAPSHOT :: integration :: Fri Apr 26 21:49:10 CEST 2013[0m
+[0m[[0mdebug[0m] [0m	options = status=integration pubdate=Fri Apr 26 21:49:10 CEST 2013 validate=true resolveDynamicRevisions=true merge=true resolveId=null pubBranch=null[0m
+[0m[[0minfo[0m] [0m	delivering ivy file to /Users/viaduc446/Documents/BusinessIntelligence/MailStats/hcoproc/target/scala-2.9.2/ivy-1.0-SNAPSHOT.xml[0m
+[0m[[0mdebug[0m] [0m	deliver done (6ms)[0m

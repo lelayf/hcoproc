@@ -1,0 +1,1 @@
+Index.PACKAGES = {"com" : [], "com.viadeo" : [], "com.viadeo.hbase" : [], "com.viadeo.hbase.hcoproc" : [{"trait" : "com\/viadeo\/hbase\/hcoproc\/Hcoproc.html", "name" : "com.viadeo.hbase.hcoproc.Hcoproc"}, {"class" : "com\/viadeo\/hbase\/hcoproc\/HcoprocExec.html", "name" : "com.viadeo.hbase.hcoproc.HcoprocExec"}]};
